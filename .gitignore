@@ -1,0 +1,21 @@
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+~$*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Raw datasets
+*.xlsx
+*.xls
+*.zip
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
